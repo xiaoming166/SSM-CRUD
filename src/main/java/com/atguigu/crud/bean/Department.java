@@ -3,7 +3,7 @@ package com.atguigu.crud.bean;
 public class Department {
     private Integer deptId;
 
-    private String deptName;
+    private String deptName;//我是2的修改神操作
     
     
 
